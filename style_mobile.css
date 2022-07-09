@@ -1,0 +1,18 @@
+body {
+		width: 300px;
+		height: 220px;
+		 
+
+		border: dotted 2px black;
+		padding: 10px;
+
+		background-color: #5b4ed9;
+
+		font-family: sans-serif;
+
+		
+}
+
+	a {
+		text-decoration: none;
+}
